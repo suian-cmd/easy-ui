@@ -6,7 +6,7 @@
         <h1>轱辘UI</h1>
         <h2>一个面向学习者的 UI 框架</h2>
         <p class="actions">
-          <a href="https://github.com">GitHub</a>
+          <a href="https://github.com/suian-cmd/easy-ui">GitHub 源码</a>
           <router-link to="/doc">开始</router-link>
         </p>
       </div>

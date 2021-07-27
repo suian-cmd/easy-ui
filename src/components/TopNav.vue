@@ -13,7 +13,7 @@
           <a href="https://www.zhihu.com/people/sui-an-70-28" target="_blank" >博客</a>
         </li>
         <li>
-          <a href="https://www.zhihu.com/people/sui-an-70-28" target="_blank" >github</a>
+          <a href="https://github.com/suian-cmd/easy-ui" target="_blank" >github 源码</a>
         </li>
     </ul>
     <div v-if="visibleAsideButton" class="toggleAside" @click="toggleAside">
