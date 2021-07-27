@@ -3,13 +3,13 @@
 打开终端运行下列命令：
 
 ```
-npm install vue-easy-ui
+npm install suian-easy-ui
 ```
 
 或
 
 ```
-yarn add vue-easy-ui
+yarn add suian-easy-ui
 ```
 
 下一节：[开始使用](#/doc/get-started)
