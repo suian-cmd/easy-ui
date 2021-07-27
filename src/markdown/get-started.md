@@ -21,6 +21,7 @@ import {Button, Input, Switch, Radio, Dialog, openDialog, TabItem,  Tabs } from 
 </template>
 <script>
 import {Button, Input, Switch, Radio, Dialog, openDialog, TabItem,  Tabs} from "vue-easy-ui"
+import 'vue-easy-ui/dist/lib/easy.css'
 export default {
   components: {Button}
 }
